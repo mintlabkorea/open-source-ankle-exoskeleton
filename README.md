@@ -1,8 +1,8 @@
 # Design and Development of an Accessible Open-Source Ankle Exoskeleton
 
 **Authors**: Sunin Baek and Daekyum Kim*
- 
 
+ ![overview](https://github.com/mintlabkorea/open-source-ankle-exoskeleton/blob/main/Overview.PNG)
 
 
 ## Abstract
@@ -10,3 +10,9 @@ Wearable robotics, particularly ankle exoskeletons, hold significant promise for
 
 ## Assembly Guide
 - General assembly guide and descriptions are located in [https://github.com/mintlabkorea/open-source-ankle-exoskeleton/tree/main/paper](https://github.com/mintlabkorea/open-source-ankle-exoskeleton/tree/main/paper)
+
+
+
+
+
+ ![usage](https://github.com/mintlabkorea/open-source-ankle-exoskeleton/blob/main/usage.jpg)
